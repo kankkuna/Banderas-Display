@@ -1,0 +1,19 @@
+.letterone {
+  display: inline-block;
+  height: 200px;
+  margin bottom: : 5em;
+  padding: orange;
+  background-color: orange;
+  color: black;
+
+}
+
+.lettertwo {
+  display: inline-block;
+  height: 200px;
+  margin bottom: : 5em;
+  padding: black;
+  background-color: black;
+  color: white;
+
+}
